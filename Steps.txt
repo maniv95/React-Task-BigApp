@@ -1,0 +1,17 @@
+step1: npm install 
+
+step2: npm start
+
+step3: register
+
+step4: login
+
+//After Login 
+
+step5: View Table
+
+Step6: Drag N Drop
+
+step7: Logout
+
+Thank You !
